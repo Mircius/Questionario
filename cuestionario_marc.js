@@ -1,4 +1,6 @@
 var contador = 1;
+var contador2 = 1;
+var contador3 = 1;
 
 function intentos() {
 
