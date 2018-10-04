@@ -11,6 +11,7 @@ function intentos() {
 }
 
 function intentos_global() {
+	var contador_global = contador+contador2+contador3;
 
 }
 
