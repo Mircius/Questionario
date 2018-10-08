@@ -218,7 +218,10 @@ function resetearTexto(){
 //Muestra el texto correcto debajo del textArea.
 function comprovarTexto(){
 	document.getElementById("myP").style.visibility = "";
+	var textoArea = document.getElementById("textoArea");
 	contarIntentosPrg3();
+	textoArea.disabled=true;
+
 
 }
 //Limpia el texto y elimina el borderColor rojo de los inputs.
