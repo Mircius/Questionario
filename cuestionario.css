@@ -1,0 +1,131 @@
+img {
+	width: 15px;
+	height: 15px;
+}
+
+body {
+	font-family: arial;
+}
+
+#borrar {
+		background-image: url(borrar.png);
+		background-size: contain;
+		width: 50px;
+		height: 50px;
+		border-radius: 100px;
+}
+
+#btnAceptar {
+		background-image: url(aceptar.png);
+		background-size: contain;
+		width: 50px;
+		height: 50px;
+		border-radius: 100px;
+}
+
+.respuesta:hover {
+		background-color: #b7cff7;
+
+}
+
+.respuesta {
+		width: 20%;
+}
+
+.p {
+	display: inline;
+}
+
+#bor {
+		background-image: url(borrar.png);
+		background-size: contain;
+		width: 50px;
+		height: 50px;
+		border-radius: 100px;
+}
+	
+#comp {
+		background-image: url(aceptar.png);
+		background-size: contain;
+		width: 50px;
+		height: 50px;
+		border-radius: 100px;
+}
+
+.div1 {
+	border-top: 0px;
+	margin-left: 22%;
+	width: 700px;
+	height: 300px;
+	border:2px solid black;
+	padding: 15px;
+
+}
+
+.div2 {
+	position: relative;
+	border-top: 0px;
+	margin-left: 22%;
+	width: 700px;
+	height: 300px;
+	border:2px solid black;
+	padding: 15px;
+
+}
+
+.div3 {
+	position: relative;
+	border-top: 0px;
+	margin-left: 22%;
+	width: 700px;
+	height: 300px;
+	border:2px solid black;
+	padding: 15px;
+}
+
+.div4 {
+	position: relative;
+	border-top: 0px;
+	margin-left: 22%;
+	width: 700px;
+	height: 300px;
+	border:2px solid black;
+	padding: 15px;
+
+}
+
+#borrar3 {
+		background-image: url(borrar.png);
+		background-size: contain;
+		width: 50px;
+		height: 50px;
+		border-radius: 100px;
+}
+
+#comprovar3 {
+		background-image: url(aceptar.png);
+		background-size: contain;
+		width: 50px;
+		height: 50px;
+		border-radius: 100px;
+}
+
+#borrar4 {
+		background-image: url(borrar.png);
+		background-size: contain;
+		width: 50px;
+		height: 50px;
+		border-radius: 100px;
+}
+
+#comprovar4 {
+		background-image: url(aceptar.png);
+		background-size: contain;
+		width: 50px;
+		height: 50px;
+		border-radius: 100px;
+}
+
+button:hover {
+	filter: invert(100%)
+}
